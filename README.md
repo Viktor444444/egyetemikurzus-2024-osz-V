@@ -27,10 +27,9 @@ Az értékelés utolsó órán védéssel fog zárulni.
 2. Ezen repó fork gombjával készítesz egy fork-ot erről a repóról.
 3. Issue formában vedd fel a házi feladatod témáját. 
 4. A forkot repót checkoutolod, csinálsz egy mappát, ami a kódod tartalmazza. A mappa neve a neptun kódod legyen. Ha ketten dolgoztok, akkor a kettőtök neve `_` karakterrel elválasztva.
-5. A `hazifeladatok.sln`-be vedd fel a projektedet, így a CI-CD futni fog rá.
-6. Elkészítitek a beadandót, folyamatos commitokkal.
-7. A végén, amikor be akarjátok adni, akkor készítetek egy pull request-et erre a repóra.
-8. A pull request legyen az issue-hoz csatolva.
+5. Elkészítitek a beadandót, folyamatos commitokkal.
+6. A végén, amikor be akarjátok adni, akkor készítetek egy pull request-et erre a repóra.
+7. A pull request legyen az issue-hoz csatolva.
 
 ## Ajánlott olvasmányok
 
