@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Acheron",
+    "Woman": true,
+    "WeaponType": "Katana",
+    "Height": 170,
+    "Element": "Electro"
+  },
+  {
+    "Name": "Camellya",
+    "Woman": true,
+    "WeaponType": "Sword",
+    "Height": 165,
+    "Element": "Havoc"
+  },
+  {
+    "Name": "Zhongli",
+    "Woman": false,
+    "WeaponType": "Spear",
+    "Height": 180,
+    "Element": "Geo"
+  }
+]
